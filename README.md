@@ -24,4 +24,8 @@ No Activity tracked this Week
 
 
 <!-- BLOG-POST-LIST:START -->
+- [FineWeather开发记录](https://lnm011223.xyz/2021/10/17/weather/)
+- [Linux kernel编译记录](https://lnm011223.xyz/2021/10/10/Linux-kernel/)
+- [花束般的恋爱观后有感](https://lnm011223.xyz/2021/09/16/huashu/)
+- [git使用命令](https://lnm011223.xyz/2021/09/14/git/)
 <!-- BLOG-POST-LIST:END -->
