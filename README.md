@@ -1,17 +1,46 @@
-<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=%236096F7&size=26&lines=%F0%9F%91%8B+%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E6%88%91%E7%9A%84GitHub" alt="typing-svg">
+</p>
 
 
 ## 💻 Github 统计数据
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnm011223&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnm011223)](https://github.com/anuraghazra/github-readme-stats)
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=lnm011223" />
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=lnm011223" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnm011223&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lnm011223" />
+</div>
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=lnm011223&theme=minimal" />
 </div>
+
+## 📺Social
+
+<table>
+<tbody>
+   <tr>
+       <td  valign="top" width="50%">
+
+### 📝<a href="https://lnm011223.github.io/" target="_blank">Recent Blog</a>
+
+<!-- START_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
+</td>
+       <td  valign="top" width="50%">
+
+### 🎥 <a href="https://www.douban.com/people/190687977/" target="_blank">Douban</a>
+
+<!-- START_SECTION:douban -->
+
+<!-- END_SECTION:douban -->
+</td>
+        </tr>
+</tbody>
+</table>
 
 
 ## 📊 WakaTime统计数据
@@ -23,13 +52,13 @@
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 203 今年的贡献 2021
+> 🏆 205 今年的贡献 2021
  > 
 > 📦 13.5 kB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
-> 📜 18 公共仓库 
+> 📜 17 公共仓库 
  > 
 > 🔑 0 私人仓库  
  > 
@@ -90,11 +119,5 @@ Kotlin                   1 repo              ██████░░░░░�
  Last Updated on 01/11/2021
 <!--END_SECTION:waka-->
 
-## 🎉 blog列表
 
-<!-- BLOG-POST-LIST:START -->
-- [FineWeather开发记录](https://lnm011223.xyz/2021/10/17/weather/)
-- [Linux kernel编译记录](https://lnm011223.xyz/2021/10/10/Linux-kernel/)
-- [花束般的恋爱观后有感](https://lnm011223.xyz/2021/09/16/huashu/)
-- [git使用命令](https://lnm011223.xyz/2021/09/14/git/)
-<!-- BLOG-POST-LIST:END -->
+
