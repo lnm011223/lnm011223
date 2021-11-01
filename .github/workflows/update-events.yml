@@ -13,7 +13,7 @@ jobs:
       - name: Social Readme
         uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://lnm011223.xyz/atom.xml
+          blog_rss_link: https://achuan-2.top/atom.xml
           blog_limit: 10
-          douban_name: 190687977
+          douban_name: sjx270992395
           douban_limit: 10
