@@ -27,7 +27,10 @@
 ### 📝<a href="https://lnm011223.github.io/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://lnm011223.xyz/2021/10/17/weather/' target='_blank'>FineWeather开发记录</a> - 2021-10-17
+* <a href='https://lnm011223.xyz/2021/10/10/Linux-kernel/' target='_blank'>Linux kernel编译记录</a> - 2021-10-10
+* <a href='https://lnm011223.xyz/2021/09/16/huashu/' target='_blank'>花束般的恋爱观后有感</a> - 2021-09-16
+* <a href='https://lnm011223.xyz/2021/09/14/git/' target='_blank'>git使用命令</a> - 2021-09-14
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
@@ -35,7 +38,11 @@
 ### 🎥 <a href="https://www.douban.com/people/190687977/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/2057181/' target='_blank'>看过轰轰战队冒险者</a> - 2019-07-17
+* <a href='http://movie.douban.com/subject/26779242/' target='_blank'>看过欧布奥特曼</a> - 2019-06-30
+* <a href='http://movie.douban.com/subject/2129389/' target='_blank'>看过假面骑士KABUTO</a> - 2019-06-20
+* <a href='http://movie.douban.com/subject/7005194/' target='_blank'>看过特命战队Go-Busters</a> - 2019-06-18
+* <a href='http://movie.douban.com/subject/3901660/' target='_blank'>看过兽拳战队激气连者</a> - 2019-06-09
 <!-- END_SECTION:douban -->
 </td>
         </tr>
