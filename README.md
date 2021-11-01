@@ -46,11 +46,11 @@
 ### 🎥 <a href="https://www.douban.com/people/190687977/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/34874432/' target='_blank'>看过花束般的恋爱</a> - 2021-11-01
+* <a href='http://movie.douban.com/subject/3001114/' target='_blank'>看过沙丘</a> - 2021-11-01
 * <a href='http://movie.douban.com/subject/2057181/' target='_blank'>看过轰轰战队冒险者</a> - 2019-07-17
 * <a href='http://movie.douban.com/subject/26779242/' target='_blank'>看过欧布奥特曼</a> - 2019-06-30
 * <a href='http://movie.douban.com/subject/2129389/' target='_blank'>看过假面骑士KABUTO</a> - 2019-06-20
-* <a href='http://movie.douban.com/subject/7005194/' target='_blank'>看过特命战队Go-Busters</a> - 2019-06-18
-* <a href='http://movie.douban.com/subject/3901660/' target='_blank'>看过兽拳战队激气连者</a> - 2019-06-09
 <!-- END_SECTION:douban -->
 </td>
         </tr>
