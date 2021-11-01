@@ -1,0 +1,19 @@
+name: Update events
+
+on:
+  watch:
+    types: started
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Social Readme
+        uses: zylele/social-readme@master
+        with:
+          blog_rss_link: https://lnm011223.xyz/atom.xml
+          blog_limit: 10
+          douban_name: 190687977
+          douban_limit: 10
