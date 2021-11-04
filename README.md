@@ -46,11 +46,11 @@
 ### 🎥 <a href="https://www.douban.com/people/190687977/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/34841067/' target='_blank'>看过你好，李焕英</a> - 2021-11-02
-* <a href='http://movie.douban.com/subject/1291875/' target='_blank'>想看阳光灿烂的日子</a> - 2021-11-02
-* <a href='http://movie.douban.com/subject/3742360/' target='_blank'>看过让子弹飞</a> - 2021-11-02
-* <a href='http://movie.douban.com/subject/26366496/' target='_blank'>看过邪不压正</a> - 2021-11-02
-* <a href='http://movie.douban.com/subject/24773958/' target='_blank'>看过复仇者联盟3：无限战争</a> - 2021-11-02
+* <a href='https://book.douban.com/subject/6082808/' target='_blank'>读过百年孤独</a> - 2021-11-03
+* <a href='https://book.douban.com/subject/27200257/' target='_blank'>读过挪威的森林</a> - 2021-11-03
+* <a href='https://book.douban.com/subject/24862876/' target='_blank'>读过黄雀记</a> - 2021-11-03
+* <a href='https://book.douban.com/subject/26356948/' target='_blank'>读过摆渡人</a> - 2021-11-03
+* <a href='https://book.douban.com/subject/1770782/' target='_blank'>读过追风筝的人</a> - 2021-11-03
 <!-- END_SECTION:douban -->
 </td>
         </tr>
