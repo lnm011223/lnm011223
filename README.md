@@ -61,7 +61,7 @@
 ## 📊 WakaTime统计数据
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-221-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-169-blue)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-7083%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
@@ -69,7 +69,7 @@
 
 > 🏆 217 今年的贡献 2021
  > 
-> 📦 13.7 kB 占用了 GitHub 内存 
+> 📦 13.8 kB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
@@ -139,7 +139,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 14/11/2021
+ Last Updated on 15/11/2021
 <!--END_SECTION:waka-->
 
 
