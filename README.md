@@ -35,11 +35,11 @@
 ### 📝<a href="https://lnm011223.github.io/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://lnm011223.xyz/2021/12/23/My-contacts/' target='_blank'>通讯录的实现</a> - 2021-12-23
 * <a href='https://lnm011223.xyz/2021/12/08/Linux-4th/' target='_blank'>锁与Reflex空想</a> - 2021-12-08
 * <a href='https://lnm011223.xyz/2021/12/05/DiaryApp/' target='_blank'>日记本的实现</a> - 2021-12-05
 * <a href='https://lnm011223.xyz/2021/11/22/Login-sample/' target='_blank'>登录注册界面的设计与实现</a> - 2021-11-21
 * <a href='https://lnm011223.xyz/2021/11/20/Linux-system/' target='_blank'>系统调用和进程通信踩坑记录</a> - 2021-11-20
-* <a href='https://lnm011223.xyz/2021/10/17/weather/' target='_blank'>FineWeather开发记录</a> - 2021-10-17
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
