@@ -35,11 +35,11 @@
 ### 📝<a href="https://lnm011223.github.io/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://lnm011223.xyz/2022/03/22/kotlin-review/' target='_blank'>kotlin-review</a> - 2022-03-22
 * <a href='https://lnm011223.xyz/2022/01/11/tuxingxuezhengli/' target='_blank'>图形学期末复习整理</a> - 2022-01-11
 * <a href='https://lnm011223.xyz/2022/01/05/Android-report/' target='_blank'>《移动智能应用开发》课程个人实验报告</a> - 2022-01-05
 * <a href='https://lnm011223.xyz/2021/12/23/My-contacts/' target='_blank'>通讯录的实现</a> - 2021-12-23
 * <a href='https://lnm011223.xyz/2021/12/08/Linux-4th/' target='_blank'>锁与Reflex空想</a> - 2021-12-08
-* <a href='https://lnm011223.xyz/2021/12/05/DiaryApp/' target='_blank'>日记本的实现</a> - 2021-12-05
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
