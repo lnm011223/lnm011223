@@ -47,11 +47,11 @@
 ### 🎥 <a href="https://www.douban.com/people/190687977/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/20495023/' target='_blank'>看过寻梦环游记</a> - 2022-07-01
+* <a href='http://movie.douban.com/subject/1307914/' target='_blank'>看过无间道</a> - 2022-07-01
+* <a href='http://movie.douban.com/subject/1295644/' target='_blank'>看过这个杀手不太冷</a> - 2022-07-01
 * <a href='http://movie.douban.com/subject/35253900/' target='_blank'>看过哆啦A梦：大雄的宇宙小战争2021</a> - 2022-05-28
 * <a href='http://movie.douban.com/subject/35332289/' target='_blank'>想看开端</a> - 2022-01-18
-* <a href='http://movie.douban.com/subject/35419372/' target='_blank'>想看星空下的仁医</a> - 2022-01-04
-* <a href='http://movie.douban.com/subject/30176790/' target='_blank'>看过梅艳芳</a> - 2021-11-13
-* <a href='http://movie.douban.com/subject/35422807/' target='_blank'>看过扬名立万</a> - 2021-11-13
 <!-- END_SECTION:douban -->
 </td>
         </tr>
