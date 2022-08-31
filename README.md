@@ -47,11 +47,11 @@
 ### 🎥 <a href="https://www.douban.com/people/190687977/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1929463/' target='_blank'>看过少年派的奇幻漂流</a> - 2022-08-31
 * <a href='http://movie.douban.com/subject/1828115/' target='_blank'>看过色，戒</a> - 2022-08-30
 * <a href='http://movie.douban.com/subject/26995893/' target='_blank'>看过神探大战</a> - 2022-07-10
 * <a href='http://movie.douban.com/subject/20495023/' target='_blank'>看过寻梦环游记</a> - 2022-07-01
 * <a href='http://movie.douban.com/subject/1307914/' target='_blank'>看过无间道</a> - 2022-07-01
-* <a href='http://movie.douban.com/subject/1295644/' target='_blank'>看过这个杀手不太冷</a> - 2022-07-01
 <!-- END_SECTION:douban -->
 </td>
         </tr>
