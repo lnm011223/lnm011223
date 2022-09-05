@@ -47,11 +47,11 @@
 ### 🎥 <a href="https://www.douban.com/people/190687977/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35503125/' target='_blank'>看过还是觉得你最好</a> - 2022-09-04
+* <a href='http://movie.douban.com/subject/27194292/' target='_blank'>看过怪奇物语 第四季</a> - 2022-09-04
+* <a href='http://movie.douban.com/subject/35131346/' target='_blank'>看过隐入尘烟</a> - 2022-09-04
 * <a href='http://movie.douban.com/subject/27119156/' target='_blank'>看过怪奇物语 第三季</a> - 2022-09-03
 * <a href='http://movie.douban.com/subject/26844438/' target='_blank'>看过怪奇物语 第二季</a> - 2022-09-02
-* <a href='http://movie.douban.com/subject/1297447/' target='_blank'>看过倩女幽魂</a> - 2022-09-01
-* <a href='http://movie.douban.com/subject/26359270/' target='_blank'>看过怪奇物语 第一季</a> - 2022-08-31
-* <a href='http://movie.douban.com/subject/1929463/' target='_blank'>看过少年派的奇幻漂流</a> - 2022-08-31
 <!-- END_SECTION:douban -->
 </td>
         </tr>
