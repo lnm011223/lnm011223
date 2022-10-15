@@ -35,11 +35,7 @@
 ### 📝<a href="https://lnm011223.github.io/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://lnm011223.xyz/2022/06/21/ThinkToMyFirstApp/' target='_blank'>第一款为自己打造的app初步感想</a> - 2022-06-21
-* <a href='https://lnm011223.xyz/2022/05/17/Learning-Companion/' target='_blank'>第一个完整项目有感</a> - 2022-05-17
-* <a href='https://lnm011223.xyz/2022/04/04/kotlin-review/' target='_blank'>kotlin-review</a> - 2022-04-04
-* <a href='https://lnm011223.xyz/2022/01/11/tuxingxuezhengli/' target='_blank'>图形学期末复习整理</a> - 2022-01-11
-* <a href='https://lnm011223.xyz/2022/01/05/Android-report/' target='_blank'>《移动智能应用开发》课程个人实验报告</a> - 2022-01-05
+
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
