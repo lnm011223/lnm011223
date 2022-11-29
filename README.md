@@ -43,11 +43,7 @@
 ### 🎥 <a href="https://www.douban.com/people/190687977/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/1329562/' target='_blank'>看过头文字D</a> - 2022-09-23
-* <a href='http://movie.douban.com/subject/34908206/' target='_blank'>看过瑞克和莫蒂 第五季</a> - 2022-09-05
-* <a href='http://movie.douban.com/subject/27166039/' target='_blank'>看过瑞克和莫蒂 第四季</a> - 2022-09-05
-* <a href='http://movie.douban.com/subject/26592971/' target='_blank'>看过瑞克和莫蒂 第三季</a> - 2022-09-05
-* <a href='http://movie.douban.com/subject/25865470/' target='_blank'>看过瑞克和莫蒂 第二季</a> - 2022-09-05
+
 <!-- END_SECTION:douban -->
 </td>
         </tr>
