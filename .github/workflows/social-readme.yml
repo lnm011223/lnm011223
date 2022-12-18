@@ -14,5 +14,5 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://lnm011223.xyz/atom.xml
+          blog_rss_link: https://lnm011223.top/atom.xml
           douban_name: 190687977
