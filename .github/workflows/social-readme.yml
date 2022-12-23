@@ -15,4 +15,4 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://lnm011223.github.io/atom.xml
-          douban_name: 190687977
+          douban_name: lnm011223
