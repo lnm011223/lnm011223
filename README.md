@@ -39,7 +39,7 @@
        <td  valign="top" width="50%">
 
 
-🎥 <a href="https://www.douban.com/people/190687977/" target="_blank">Douban</a>
+🎥 <a href="https://www.douban.com/people/lnm011223/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
 
