@@ -30,7 +30,13 @@
 <tbody>
    <tr>
        <td  valign="top" width="50%">
+### 📝<a href="https://lnm011223.github.io/" target="_blank">Recent Blog</a>
 
+<!-- START_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
+</td>
+       <td  valign="top" width="50%">
 
 
 ### 🎥 <a href="https://www.douban.com/people/190687977/" target="_blank">Douban</a>
