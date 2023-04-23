@@ -53,7 +53,7 @@
 ## 📊 WakaTime统计数据
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -63,7 +63,7 @@
 
 > 📦  使用了 56.5 kB GitHub 存储空间 
  > 
-> 🏆 23 年贡献了 2023 次
+> 🏆 22 年贡献了 2023 次
  > 
 > 🚫 不开放招聘
  > 
@@ -130,7 +130,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2023 17:57:27 UTC
+ Last Updated on 23/04/2023 17:58:17 UTC
 <!--END_SECTION:waka-->
 
 
